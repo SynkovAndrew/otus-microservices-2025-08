@@ -10,4 +10,4 @@
 - Customer wants to get time and direction to get to the shop, so they can get an order
 - Customer wants to get an order delivered if delivery is supported, so they can get the order
 - Customer wants to pay for an order online or in person, so the order can be paid
-- Driver wants to get information about delivery, so he can deliver the order to the customer
+- Courier wants to get information about delivery, so he can deliver the order to the customer
