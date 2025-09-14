@@ -4,7 +4,7 @@ A national sandwich shop wants to enable 'fax in your order' but over the Intern
 Users: thousands, perhaps one day millions
 
 Requirements:
-- users will place their order, then be given a time to pick up their sandwich and directions to the shop (which must integrate with several external mapping services that include traffic information)
+- users will place their order, then be given time to pick up their sandwich and directions to the shop (which must integrate with several external mapping services that include traffic information)
 - if the shop offers a delivery service, dispatch the driver with the sandwich to the user
 - mobile-device accessibility
 - offer national daily promotionals/specials
